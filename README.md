@@ -1,5 +1,8 @@
 # python-api-challenge
 
+## Notes:
+I believe that the temperature scale in the data from the OpenWeatherMap API is in Kelvin. I used Google to convert from Fahrenheit to Celsius to Kelvin to make sure temperatures were within range.
+
 ## Updates:
 - 11/27 - Finished assignment, updating README for submission.
 - 11/26 - Finished Weather section and started Vacation.
